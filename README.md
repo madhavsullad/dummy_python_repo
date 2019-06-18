@@ -1,1 +1,1 @@
-# Dummy Repo For Python Tut conducted in DSU
+# Dummy Repo For Python Tutorial conducted in DSU
